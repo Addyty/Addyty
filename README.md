@@ -29,6 +29,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg"></code>
 </p>
 
 <br />
